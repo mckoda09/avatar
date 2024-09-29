@@ -10,6 +10,7 @@ export default function App({ Component }: PageProps) {
         />
         <title>avatar</title>
         <link rel="stylesheet" href="/styles.css" />
+        <link rel="icon" href="/logo.png" />
       </head>
       <body>
         <Component />
